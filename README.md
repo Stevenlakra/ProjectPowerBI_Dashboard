@@ -52,7 +52,8 @@ Business Impact & Insights
 •	Empower Decisions: Granular order-level data with filters enables precise, customer-focused strategies.
 
 6.	Screenshot:
-<img width="812" height="458" alt="image" src="https://github.com/user-attachments/assets/cb59b0b0-2231-4a1c-8bd9-0ba2b798749b" />
+<img width="671" height="371" alt="Snapshot_SDA_PBIFinal" src="https://github.com/user-attachments/assets/8ebaae1d-1f23-4ce5-bda2-b0838261ddb4" />
+
 
 
 
